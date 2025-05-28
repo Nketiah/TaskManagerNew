@@ -1,4 +1,4 @@
-    using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Identity;
 using TaskManager.Infrastructure.Extentions;
 using TaskManager.Infrastructure.Identity;
 using TaskManager.Infrastructure.Persistence;
@@ -130,3 +130,11 @@ app.UseAuthorization();
 app.MapControllers();
 
 app.Run();
+
+
+/*
+ 
+ "Password": "pwzn olgu yqls mpmv",
+        "Email": "gyatabajoe@gmail.com"
+ 
+ */
